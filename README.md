@@ -63,7 +63,6 @@ I follow **Dr. Mohammed Abu-Hadhoud**’s roadmap. Completed courses include:
 ## 📊 GitHub stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YounesJY&show_icons=true&theme=gruvbox&hide_border=true&bg_color=0d1117&title_color=2E9EFF&icon_color=2E9EFF&text_color=c9d1d9" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com?user=YounesJY&theme=gruvbox&hide_border=true&background=0d1117&stroke=2E9EFF&ring=2E9EFF&fire=2E9EFF" width="48%" />
 </p>
 
