@@ -71,8 +71,8 @@ I follow **Dr. Mohammed Abu-Hadhoud**’s roadmap. Completed courses include:
 ## 📫 Let’s connect
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/jayid-younes-89324733a/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:younes.jayid.23@edu.uiz.ac.ma"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/jayid-younes/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:younes.jayid.23@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://github.com/YounesJY"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 
