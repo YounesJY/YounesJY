@@ -57,7 +57,6 @@ A complete **Driving License Management System** built with C# and SQL Server.
 - 📝 50+ Forms
 - 🎮 25+ User Controls
 - 🗄️ 30+ SQL Tables
-- 💾 26+ Git Commits
 
 **Key learnings:** Lazy Loading, Event Exposure Pattern, Transactions, Repository Placement, Single Responsibility, Architectural Trade-offs
 
