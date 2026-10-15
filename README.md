@@ -92,7 +92,7 @@ A clean, layered REST API with SQL Server backend.
 - Audio control via NAudio, WiFi adapter enumeration via Wlanapi
 - Office COM interop (Outlook, Word, Excel, PowerPoint)
 
-➡️ [Repository](https://github.com/YounesJY/win32-project-simples)
+➡️ [Repository](https://github.com/YounesJY/Win32-Api-Demos)
 
 ### Karate Club Management — Java EE
 
